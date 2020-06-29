@@ -1,0 +1,105 @@
+/* BACKGROUND IMAGE MAIN PAGE */
+.backgroundimage{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2),rgba(0,0,0,0.2)), url(../images/image_prise_de_photo.jpg);
+    background-size: cover;
+    height: 100%;
+    
+}
+
+.emp{
+    font-size: larger;
+}
+
+.headquote{
+    font-family: 'Great Vibes';
+    font-size: 90px;
+    color: aliceblue;
+    text-shadow: 2px 2px black;
+}
+
+/* BACKGROUND IMAGE SERVICES */
+.backgroundimages{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)), url(../images/FOND_1.jpg);
+    background-size: cover;
+    height: 100%;
+}
+
+.sizingicons{
+    width: 30%;
+        
+}
+.sizingicons0{
+    width: 20%;
+}
+.sizingicons1{
+    width: 30%;
+}
+
+/* .buttonwhite{
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    background-color: transparent;
+    border: transparent;
+    border-radius: 70%;
+}
+.buttonwhite:hover{
+    background-color: rgba(255, 255, 255, 0.116);
+} */
+
+
+/* BACKGROUND PORTFOLIO */
+.backgroundimagep{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.7),rgba(0,0,0,0.7)), url(../images/fond_portfolio.jpg);
+    background-size: cover;
+    height: 100%;
+    
+}
+.carouselsizing{
+    margin: auto;
+    margin-top: 5%;
+    width: 80%;
+}
+
+/* BACKGROUND EQUIPE */
+.backgroundimagee{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5),rgba(0,0,0,0.5)), url(../images/FOND_equipe.jpg);
+    background-size: cover;
+    height: 100%;
+}
+.imagesizing{
+    width: 70%;
+}
+.margingtop{
+    margin-top: 10%;
+}
+
+/* BACKGROUND CONTACT */
+.backgroundimagec{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.1),rgba(0,0,0,0.1)), url(../images/FOND_contact.jpg);
+    background-size: cover;
+    height: 100%;
+    
+}
+
+/* BACKGROUND OF THE FORMS */
+.backform{
+    background-color: rgba(255, 255, 255, 0.479);
+    
+}
+
+.sizinglogoemd{
+    width: 50%;
+    margin: 10%;
+}
+
+.sizingtext{
+    font-size: 200%;
+}
+
+.sizinglogofbig{
+    font-size: 200%;
+    color: white;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
